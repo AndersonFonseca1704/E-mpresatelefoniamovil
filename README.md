@@ -6,3 +6,4 @@ el plan tienen números de celular un operador una cantidad de minutos y costo p
 calcular el total a pagar teniendo en cuenta que si el operador es "movilujo" 
 - tienen un 50% de descuento. 
 - usar mínimo dos métodos constructores.
+![class-diagram](https://user-images.githubusercontent.com/102609948/197351009-b98389c0-b757-4e79-9248-a93cf01fccad.jpeg)
